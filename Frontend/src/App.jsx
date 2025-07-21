@@ -78,7 +78,7 @@ function App() {
       <button onClick={handleGet}>Get Message</button>
       <input
         type="text"
-        placeholder="Set message"
+        placeholder="Get message"
         value={receivedMessage}
         disabled
       />
